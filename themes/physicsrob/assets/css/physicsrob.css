@@ -1,0 +1,40 @@
+div.prompt {
+    background-color: #FFF;
+    min-width: 5em;
+}
+
+h1 a {
+    color: #333;
+}
+
+h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
+}
+
+div.text_cell_render {
+    color: #111;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text_cell .prompt {
+    display: none;
+}
+
+.code_cell .hidden {
+    display: none;
+}
+.code_cell {
+    padding-right: 5em !important;
+}
+
+.navbar a {
+    color: #666;
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.metadata a {
+    color: #338;
+}
+
