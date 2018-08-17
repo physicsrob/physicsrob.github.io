@@ -1,0 +1,13 @@
+Vocab:
+Apple
+Orange
+Pig
+Fruit
+Animal
+Red
+Orange
+Pink
+Invalid
+
+
+
